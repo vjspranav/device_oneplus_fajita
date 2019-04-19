@@ -4,8 +4,8 @@
     "target_path" : "device/oneplus/sdm845-common"
   },
   {
-    "repository"  : "boulzordev/vendor_interfaces",
+    "repository"  : "omnirom/android_vendor_interfaces",
     "target_path" : "vendor/interfaces",
-    "branch"      : "pie"
+    "branch"      : "android-9.0"
   }
 ]
