@@ -28,8 +28,5 @@ DEVICE_FRAMEWORK_MANIFEST_FILE += $(DEVICE_PATH)/framework_manifest.xml
 # Prebuilt TWRP include
 -include device/twrp/fajita/twrp.mk
 
-# Soong namespaces
-PRODUCT_SOONG_NAMESPACES += device/oneplus/common
-
 # inherit from the proprietary version
 -include vendor/oneplus/fajita/BoardConfigVendor.mk
