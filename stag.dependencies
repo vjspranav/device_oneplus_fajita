@@ -1,7 +1,9 @@
 [
   {
-    "repository": "device_oneplus_common",
-    "target_path": "device/oneplus/common"
+    "remote"      : "github",
+    "repository"  : "AOSiP-Devices/device_oneplus_common",
+    "target_path" : "device/oneplus/common",
+    "branch"      : "ten"
   },
   {
     "repository": "device_oneplus_sdm845-common",
@@ -18,5 +20,12 @@
     "repository"  : "AOSiP-Devices/vendor_oneplus",
     "target_path" : "vendor/oneplus",
     "branch"      : "ten"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "AOSiP-Devices/device_twrp",
+    "target_path" : "device/twrp/enchilada",
+    "branch"      : "enchilada",
+    "clone-depth" : "1"
   }
 ]
