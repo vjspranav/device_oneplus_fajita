@@ -6,8 +6,8 @@
     "branch"      : "ten"
   },
   {
-    "repository": "device_oneplus_sdm845-common",
-    "target_path": "device/oneplus/sdm845-common"
+    "repository"  : "device_oneplus_sdm845-common",
+    "target_path" : "device/oneplus/sdm845-common"
   },
   {
     "remote"      : "github",
@@ -24,8 +24,8 @@
   {
     "remote"      : "github",
     "repository"  : "AOSiP-Devices/device_twrp",
-    "target_path" : "device/twrp/enchilada",
-    "branch"      : "enchilada",
+    "target_path" : "device/twrp/fajita",
+    "branch"      : "fajita",
     "clone-depth" : "1"
   }
 ]
