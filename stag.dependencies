@@ -17,7 +17,7 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "AOSiP-Devices/vendor_oneplus",
+    "repository"  : "vjspranav/vendor_oneplus",
     "target_path" : "vendor/oneplus",
     "branch"      : "ten"
   },
