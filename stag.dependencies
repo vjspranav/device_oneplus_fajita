@@ -1,23 +1,19 @@
 [
   {
-    "remote"      : "github",
-    "repository"  : "AOSiP-Devices/device_oneplus_common",
+    "repository"  : "device_oneplus_common",
     "target_path" : "device/oneplus/common",
-    "branch"      : "ten"
   },
   {
     "repository"  : "device_oneplus_sdm845-common",
     "target_path" : "device/oneplus/sdm845-common"
   },
   {
-    "remote"      : "github",
-    "repository"  : "AOSiP-Devices/kernel_oneplus_sdm845",
+    "repository"  : "kernel_oneplus_sdm845",
     "target_path" : "kernel/oneplus/sdm845",
-    "branch"      : "ten"
   },
   {
     "remote"      : "github",
-    "repository"  : "vjspranav/vendor_oneplus",
+    "repository"  : "AOSiP-Devices/vendor_oneplus",
     "target_path" : "vendor/oneplus",
     "branch"      : "ten"
   },
@@ -32,5 +28,5 @@
     "repository"  : "vendor_oneplus_camera",
     "target_path" : "vendor/oneplus/camera",
     "branch"      : "sx"
-  },
+  }
 ]
