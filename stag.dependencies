@@ -27,5 +27,10 @@
     "target_path" : "device/twrp/fajita",
     "branch"      : "fajita",
     "clone-depth" : "1"
-  }
+  },
+  {
+    "repository"  : "vendor_oneplus_camera",
+    "target_path" : "vendor/oneplus/camera",
+    "branch"      : "sx"
+  },
 ]
