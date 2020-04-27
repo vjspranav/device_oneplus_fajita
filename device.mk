@@ -46,5 +46,8 @@ PRODUCT_PACKAGES += \
 # Inherit from oneplus sdm845-common
 $(call inherit-product, device/oneplus/sdm845-common/common.mk)
 
+#FOD ANIMATIONS
+EXTRA_FOD_ANIMATIONS := true
+
 # Inherit from vendor blobs
 #$(call inherit-product, vendor/oneplus/fajita/fajita-vendor.mk)
