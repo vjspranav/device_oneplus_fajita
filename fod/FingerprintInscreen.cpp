@@ -20,6 +20,7 @@
 #include <android-base/logging.h>
 #include <hidl/HidlTransportSupport.h>
 #include <fstream>
+#include <cmath>
 
 #define FINGERPRINT_ERROR_CANCELED 5
 #define FINGERPRINT_ACQUIRED_VENDOR 6
